@@ -1,0 +1,46 @@
+{
+    "projects": [
+      {
+        "_id ": 1,
+        "title": "Weather-Dashboard",
+        "about": "It is an application that find a weather condition of a given city both the current and 5-Days forecast at the same time.The server-side API used to get response data object is retrieved from the Open Weather APi.",
+        "src": "/images/weather-Dashboard.png",
+        "deployment": "",
+        "repo": "https://github.com/Archo21/Weather-Dashboard-"
+      },
+      {
+        "_id ": 2,
+        "title": "Inter Actor",
+        "about": "InterActor is an app comparing different actors/actresses, directors in same movie added login functionality along with teh ability to start writing and saving biosIt uses HTML, CSS, Materialize, Web-API fetch, Javascript, Jquery andTMDB API, Exspress, Node.js, SQL, Handlebars, sequlize, jawsDB",
+        "src": "/images/interActor.png",
+        "deployment": "https://interactor-project2.herokuapp.com/",
+        "repo": "https://github.com/Allout004/GroupProject2"
+      },
+      {
+        "_id ": 3,
+        "title": "GOOD-README GENERATOR",
+        "about": " A command line professional README generator. That uses Node, Inquirer and makes an axios call to get the badge of your choice.",
+        "src": "/images/readme.gif",
+        "deployment": "",
+        "repo": "https://github.com/Archo21/GOOD-README-GENERATOR"
+      },
+      {
+        "_id ": 4,
+        "title": "Team-Profile-Generator",
+        "about": "This app I created using Object-Oriented Programming concepts namely using classes and constructors to create team objects based on information entered by the user. The app is run using Node.js,and uses the Inquirer and FS node modules. Files for different objects are also stored in separate .js files and passed among one another using module.exports and require.",
+        "src": "/images/Team-profile generator.png",
+        "deployment": "",
+        "repo": ""
+      },
+      {
+        "_id ": 5,
+        "title": "Note Taker",
+        "about": "An application that can be used to write, save, and delete notes.This application uses an express backend and save and retrieve note data from a JSON file ",
+        "src": "/images/note-taker.png",
+        "deployment": "",
+        "repo": ""
+      }
+      
+    ]
+  }
+  
