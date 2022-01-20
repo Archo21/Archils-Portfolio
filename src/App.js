@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+//import Logo from './Logo.svg';
+//import './App.css';
 import Navbar from './components/Navbar';
 import Header from './components/Header';
 import Footer from './components/Footer';
@@ -14,7 +14,6 @@ function App() {
   return (
     <div>
       <Navbar></Navbar>
-    
       <Header></Header>
       <Portfolio></Portfolio>
       <About></About>

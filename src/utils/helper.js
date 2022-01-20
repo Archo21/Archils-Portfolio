@@ -11,3 +11,4 @@ export function checkPassword(input) {
   return false;
 
 }
+export default validEmail

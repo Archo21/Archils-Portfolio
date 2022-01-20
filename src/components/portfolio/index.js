@@ -8,8 +8,8 @@ import Projects from "../Projects";
     })
     return (
     <section id="project-section">
-    <h1 class= "project-heading"> some of my projects</h1>
-    <div class= "project-container">
+    <h1 className= "project-heading"> Some of My Projects</h1>
+    <div className= "project-container">
         {projectCard}
     </div>
     </section>

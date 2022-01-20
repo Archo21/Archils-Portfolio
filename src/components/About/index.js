@@ -4,9 +4,9 @@ function About (){
     return (
     <section id="about-section">
     
-    <div class="about">
-    <div class="about-img-container">
-        <img src={home} class="about-img" alt=""/>
+    <div className="about">
+    <div className="about-img-container">
+        <img src={home} className="about-img" alt=""/>
         <button class="download-cv-btn">downlaod cv</button>
     </div>
     <p class="about-info">I am a self-motivated, innovative, committed team player

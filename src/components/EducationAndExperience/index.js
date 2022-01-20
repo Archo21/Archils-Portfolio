@@ -1,14 +1,14 @@
-import { jsxExpressionContainer } from "@babel/types";
+
 import React from"react";
 function EducationAndExperience(){
     return(
         <section>
-    <div class="timeline">
-        <h1 class="heading">education and experience</h1>
-        <div class="card">
-            <div class="card-body">
-            <h1 class="card-title">2020-2021</h1>
-            <p class="card-detail">
+    <div className="timeline">
+        <h1 className="heading">education and experience</h1>
+        <div className="card">
+            <div className="card-body">
+            <h1 className="card-title">2020-2021</h1>
+            <p className="card-detail">
                 MACHINE OPERATOR:
                 CLEARWATER SPAS - ARLINGTON WA.
                 CURRENT-JOB.
@@ -20,10 +20,10 @@ function EducationAndExperience(){
             </div>
 
         </div>
-        <div class="card">
-            <div class="card-body">
-            <h1 class="card-title">2016-2019</h1>
-            <p class="card-detail">
+        <div className="card">
+            <div className="card-body">
+            <h1 className="card-title">2016-2019</h1>
+            <p className="card-detail">
                 FARM MANAGER: 
             Homa-Bay County,Kenya.And Kaberamaido District, Uganda.
      Managed mixed farm, that entails crop farming, aquaculture, Tree nursery, and animal farming
@@ -37,10 +37,10 @@ function EducationAndExperience(){
             </p>
             </div>
         </div>
-        <div class="card">
-            <div class="card-body">
-            <h1 class="card-title">2015-2016</h1>
-            <p class="card-detail">
+        <div className="card">
+            <div className="card-body">
+            <h1 className="card-title">2015-2016</h1>
+            <p className="card-detail">
             FOOD AND BEVERAGE SUPERVISOR:  
             Country Lake Resort Garuga - Entebbe, Uganda.
     Established and enforced standards of personnel performance and service to provide customers with consistent and
@@ -50,10 +50,10 @@ function EducationAndExperience(){
             </p>
             </div>
         </div>
-        <div class="card">
-            <div class="card-body">
-            <h1 class="card-title">2014-2015</h1>
-            <p class="card-detail">
+        <div className="card">
+            <div className="card-body">
+            <h1 className="card-title">2014-2015</h1>
+            <p className="card-detail">
                 FRONT OFFICE SUPERVISOR: 
                  GOLF COURSE HOTEL- KAMPALA UGANDA. 
     Defined and documented office procedures, using updated SOPs to provide thorough and comprehensive training
