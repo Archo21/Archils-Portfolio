@@ -1,10 +1,13 @@
 import React from "react";
-import projects from "../../utils/project.json";
+import projects from "../../utils/project.js";
 import Projects from "../Projects";
 
+
  function Portfolio (){
-    const projectCard = projects.projects.map((projectItem)=> {
+    const projectCard = projects.map((projectItem)=> {
+     
         return <Projects projectProps={projectItem}/>
+        
     })
     return (
     <section id="project-section">

@@ -1,18 +1,19 @@
 import React from"react";
-function Projects(props){
 
+function Projects({projectProps}){
+ //console.log(projectProps);
 return (
-    <div class="project-card">
-           <img src={props.src} class= "project-img"alt=""></img>
+    <div className="project-card">
            <div className="project-content">
-               <h1 className="project-title">{props.title}</h1>
+               <img src={projectProps.src} className= "project-img"alt=""></img>
+               <h1 className="project-title">{projectProps.title}</h1>
                <p className="project-info">
-                {props.description}
+                {projectProps.about}
                </p>
                <div className="project-btn-grp">
-                <button className="project-btn github"><a href ={props.repo}> github repo</a></button>
-                <button className="project-btn live"><a href ={props.deploy}>see live </a></button>
-            </div>
+                <button className="project-btn github"><a href ={projectProps.repo}> github repo</a></button>
+                <button className="project-btn see live"><a href ={projectProps.deploy}>see live </a></button>
+                </div>
             </div> 
     </div>
 )}

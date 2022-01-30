@@ -7,16 +7,14 @@ function About (){
     <div className="about">
     <div className="about-img-container">
         <img src={home} className="about-img" alt=""/>
-        <button class="download-cv-btn">downlaod cv</button>
+        {/* <button class="download-cv-btn">downlaod cv</button> */}
     </div>
-    <p class="about-info">I am a self-motivated, innovative, committed team player
-        seeking to offer core competence, hardworking, keen at the time
-        keeping, dynamic,flexible, open mindedand nonjudgmental, 
-        able to work independently with minimalsupervision,
+    <p class="about-info"> I,m junior full stack web developer, self-motivated, innovative, committed team player
+        seeking to offer core competence, hardworking,dynamic,flexible, open mindedand nonjudgmental, 
+        able to work independently with minimal supervision,
         and to execute service and duties allocated
         ahead of me. 
-        actively seeking an executive opportunity
-        in a demanding, fast-paced multi-tasking work.</p>
+        </p>
         </div>
 </section>
  )}

@@ -52,7 +52,8 @@ body{
   position: fixed ;
   top: 0;
    opacity: 0;
-  transition: 1s;   
+  transition: 1s;
+  
 }
 .home-section.active,
 .project-section.active{
@@ -68,14 +69,15 @@ body{
   text-transform: capitalize;
   font-weight: 300;
 }
-.home.img{
+.img.home.jpeg{
   position: absolute;
   top: 0;
   right: 0;
   height: 100vh;
-  width: 50%;
+  width: 40%;
   object-fit:cover;
   opacity: 0.2;
+  border-radius: 30px;
 }
 .project- section{
   width: 100% ;
@@ -87,15 +89,15 @@ body{
   opacity: 0;
 }
 .project-heading{
-  font-size: 90px;
-  background: #252525;
+  font-size: 50px;
+  background: whitesmoke;
   text-transform: capitalize;
-  text-align: center;
+  text-align: left;
   margin-bottom: 50px;
   color: #1a1a1a;
   background-clip: text;
   -webkit-background-clip:text;
-  -webkit-text-stroke: 8px transparent;
+  -webkit-text-stroke: 6px transparent;
 } 
 .project-container{
 display: grid;
@@ -104,37 +106,44 @@ grid-gap: 100px;
 
 }
 .project-card{
-   height: 400px;
+   height: 450px;
    position: relative;
-   max-width: 400px;
+   max-width: 450px;
 }
 .project-img{
-  width: 100%;
-  height:100%; 
+  width: 75%;
+  height:75%; 
   position: relative;
   top: 0;
   left: 0;
   object-fit: cover;
-  transition: .5s;
+  transition: 0.5s;
 }
 .project-content{
    position: relative;
-   padding: 40px;
-   color: #fff;
+   /* padding: 40px; */
+   color:blanchedalmond;
    transition: .5s;
-   opacity: 0;
+  
 }
 .project-title{
-   font-size: 50px;
+   /* font-size: 50px; */
    text-transform: capitalize;
    text-align: center;
-   font-weight: 300;
+   /* font-weight: 300; */
+   
+  
 }
 .project-info{
- margin: 40px;  
- font-size: 20;
- line-height: 30px;
+ /* margin: 40px;   */
+ color: #fff;
+  opacity: 0.6;
+  font-size: 12.5px;
+  line-height: 20px;
+  font-size: 10.5; 
+ line-height: 1rem; 
  text-align: center;
+ font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .project-btn-grp{
   display: grid;
@@ -164,12 +173,12 @@ grid-gap: 100px;
 }
 
 .about-section{
-  width: 100%;
-  min-height: 100vh;
-  padding: 150px 100px 0;
+  width: 80%;
+  min-height: 80vh;
+  padding: 100px 75px 0;
   position: fixed;
   top: 0;
-  opacity: 0;
+  /* opacity: 0; */
   transition: 1s;
 }
 .about{
@@ -409,7 +418,7 @@ color: #fff;
 
 }
 #msg{
-  height: 280px;
+  height: 200px;
   resize: none;
   font-family: sans-serif;
 }
@@ -441,10 +450,11 @@ background: rgba(255, 255, 255, 0.2);
   left: 0;
   bottom: 0;
   width: 100%;
+  height: 5%;
   background-color: white;
   color: black;
   text-align: center;
 }
-i{
+i{width: 50px;
   color: #000;
 }

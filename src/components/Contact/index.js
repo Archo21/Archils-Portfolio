@@ -3,8 +3,8 @@ import emailValidator from "../../utils/helper.js"
 
 function Contact(){
 const [formState,setFormState]=useState({
-    name:"",
-    email:"",
+    name:"Archils Oburu",
+    email:"oburuarchils@gmail.com",
     message:""
 })
 const[errorMessage,setErrorMessage]=useState("")
