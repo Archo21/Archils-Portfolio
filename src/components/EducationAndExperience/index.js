@@ -7,7 +7,7 @@ function EducationAndExperience(){
         <h1 className="heading">education and experience</h1>
         <div className="card">
             <div className="card-body">
-            <h1 className="card-title">2020-2021</h1>
+            <h1 className="card-title">2020-Todate</h1>
             <p className="card-detail">
                 MACHINE OPERATOR:
                 CLEARWATER SPAS - ARLINGTON WA.

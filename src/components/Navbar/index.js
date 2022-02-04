@@ -9,6 +9,7 @@ return(
         <li className="link"><a href="#project-section">Projects</a></li>
         <li className="link"><a href="#about-section">About</a></li>
         <li className="link"><a href="#contact-section">Contact</a></li>
+        
     </ul>
 </nav>
 )}

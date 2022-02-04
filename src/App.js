@@ -10,13 +10,14 @@ import Portfolio from './components/portfolio';
 import About from './components/About';
 
 
+
 function App() {
   return (
     <div>
       <Navbar></Navbar>
       <Header></Header>
       <Portfolio></Portfolio>
-      <About></About>
+      <About></About>    
       <Skills></Skills>
       <EducationAndExperience></EducationAndExperience>
       <Contact></Contact>
