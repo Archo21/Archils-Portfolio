@@ -23,14 +23,14 @@ const projects = [
         deploy: "https://workout-tracker2044.herokuapp.com/",
         repo: "https://github.com/Archo21/Workout-Tracker"
       },
-      {
-        _id : 4,
-        title: "Team-Profile-Generator",
-        about: "This app is created using Object-Oriented Programming concepts namely using classes and constructors to create team objects based on information entered by the user. The app is run using Node.js",
-        src: require("../Assets/images/Team-profile generator.png"),
-        deploy: "https://team-profile21.herokuapp.com/",
-        repo: "https://github.com/Archo21/Team-Profile-Generator"
-      },
+      // {
+      //   _id : 4,
+      //   title: "Team-Profile-Generator",
+      //   about: "This app is created using Object-Oriented Programming concepts namely using classes and constructors to create team objects based on information entered by the user. The app is run using Node.js",
+      //   src: require("../Assets/images/Team-profile generator.png"),
+      //   deploy: "https://team-profile21.herokuapp.com/",
+      //   repo: "https://github.com/Archo21/Team-Profile-Generator"
+      // },
       {
         _id : 5,
         title: "Note Taker",

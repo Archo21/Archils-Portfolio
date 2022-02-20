@@ -1,10 +1,10 @@
 import React from"react";
-import me from "../../Assets/images/home.jpeg"
+import me from '../../Assets/images/Archo.jpg'
 function Header(){
     return(
-        <section className="home-section active ">
-    <h1 className="hero-heading">Archils Oburu<br /> portfolio </h1>
-    <img src={me}className = "home.jpeg" alt=""/>
+        <section className="home-section.active ">
+    <h1 className="hero-heading">Archils<br /> portfolio </h1>
+    <img src={me}className = "homeImg" alt=""/>
  </section>
     )
 }

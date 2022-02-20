@@ -11,7 +11,7 @@ return (
                 {projectProps.about}
                </p>
                <div className="project-btn-grp">
-                <button className="project-btn github"><a href ={projectProps.repo}> github repo</a></button>
+                <button className="project-btn github"><a href ={projectProps.repo}>repo</a></button>
                 <button className="project-btn see live"><a href ={projectProps.deploy}>see live </a></button>
                 </div>
             </div> 
