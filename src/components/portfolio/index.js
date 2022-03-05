@@ -11,7 +11,7 @@ import Projects from "../Projects";
     })
     return (
     <section id="project-section">
-    <h1 className= "project-heading"> Some of My Projects</h1>
+    <h1 className= "project-heading">My Projects</h1>
     <div className= "project-container">
         {projectCard}
     </div>

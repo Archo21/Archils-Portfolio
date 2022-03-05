@@ -7,12 +7,12 @@ function EducationAndExperience(){
         <h1 className="heading">education and experience</h1>
         <div className="card">
             <div className="card-body">
-            <h1 className="card-title">2020-Todate</h1>
+            <h1 className="card-title">2020-Current</h1>
             <p className="card-detail">
                 MACHINE OPERATOR:
                 CLEARWATER SPAS - ARLINGTON WA.
                 CURRENT-JOB.
-    Assembled, Hot tub products securely and accurately according to blueprints and specifications.
+    Assembled,Hot tub products securely and accurately according to blueprints and specifications.
     Worked at a fast and steady pace to meet production goals.
     Performed visual final inspections and documentation prior to assembly, resulting in 100% quality of products.
     Worked closely with supervisors and designers to understand and meet production specifications.
@@ -24,13 +24,12 @@ function EducationAndExperience(){
             <div className="card-body">
             <h1 className="card-title">2016-2019</h1>
             <p className="card-detail">
-                FARM MANAGER: 
-            Homa-Bay County,Kenya.And Kaberamaido District, Uganda.
+                FARM MANAGER: Kenya/Uganda.
      Managed mixed farm, that entails crop farming, aquaculture, Tree nursery, and animal farming
      Protected environmental areas, team members and consumers from harm by closely monitoring chemical
      applications and production techniques.
      Directed efficient crop production to maximize resource utilization and consistently meet schedule and financial
-     demands.
+     demand.
      Diversified farm income by adding customer events, activities and tours.
      Demonstrated working techniques, practices and optimal safety behaviors to workers, maximizing performance and
      reducing wasteful processes.

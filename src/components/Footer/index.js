@@ -1,7 +1,7 @@
 
 //import { link } from "fs";
 import React from "react";
-import pdf from "../../utils/pdf/Archils.pdf"
+import pdf from "../../utils/pdf/Resume.pdf"
 function Footer (){
     const icons = [
         {
