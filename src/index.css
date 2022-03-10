@@ -1,12 +1,13 @@
     *{ 
-    
-    margin: 0;
+ padding: 5px,10px; 
+margin: 0;
 display: flexbox;
-  flex-flow: row wrap;
-  justify-content: space-around;
+flex-flow: row wrap;
+justify-content: space-around;
 }
 body{
   width: 100%;
+  height: 100vh;
   max-width: 1000px;
   display: block;
   margin: auto;
@@ -49,8 +50,9 @@ body{
   flex-direction: row;
 }
 .homeImg{
-  width: 350px;
+  width: 250px;
   border-radius: 40px;
+  padding: 10px;
 
 }
 .home-section.active,
@@ -63,7 +65,7 @@ body{
 } 
 .hero-heading{
   color: #fff;
-  font-size: 80px;
+  font-size: 60px;
   text-transform: capitalize;
   font-weight: 200;
   background-color: black;
@@ -134,15 +136,15 @@ grid-gap: 100px;
  margin: 10px;   
  color: #fff;
   opacity: 0.6;
-  font-size: 14px;
+  font-size: 12.5px;
   line-height: 10px;
- line-height: 0.9rem; 
+ line-height: 1rem; 
  text-align: left;
 }
 .project-btn-grp{
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  grid-gap: 10px;
+  grid-gap: 30px;
 }
 .project-btn{
   height: 20px;
@@ -370,17 +372,17 @@ margin-bottom: 20px;
 .contact-section{
 position: absolute;
 top: 0;
-transition: 100px 150px;
+transition: 100px 100px;
 height: 100vh;
 display: grid;
 opacity: 0;
 grid-template-columns: repeat(2, 1fr);
 grid-gap: 50px;
-border-radius: 30px;
+border-radius: 40px;
 }
 .contact-form input, .contact-form textarea{
   width: 100%;
-  height: 40px;
+  height: 30px;
   background: rgba(255, 255, 255, 0.2);
   border: 1px solid #fff;
   margin-bottom: 5px;
@@ -388,15 +390,17 @@ border-radius: 30px;
   text-transform: capitalize;
   color: #fff;
   padding: 5px 10px;
+  
 }
 ::placeholder{
 color: #fff;
 
 }
 #msg{
-  height: 200px;
+  height: 150px;
   resize: none;
   font-family: sans-serif;
+  
 }
 .form-submit-btn{
   background: #ff4fa7;

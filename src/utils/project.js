@@ -10,10 +10,10 @@ const projects = [
       {
         _id : 2,
         title: "Inter Actor",
-        about: "InterActor is an app comparing different actors/actresses, directors in same movie added login functionality along with teh ability to start writing and saving biosIt uses HTML, CSS, Materialize, Web-API fetch, Javascript, Jquery andTMDB API, Exspress, Node.js, SQL, Handlebars, sequlize, jawsDB",
-        src: require("../Assets/images/InterActor.png"),
-        deploy: "https://interactor-project2.herokuapp.com/",
-        repo: "https://github.com/Allout004/GroupProject2"
+        about: "This application helps users find movies that 2 or more actors, directors, or producers have made together. In thtogris application users are able to create a profile, and create a favorites list containing movies that they would like to see. InterActor uses the MERN stack web development process. To get the movie information, the application makes API calls to The Movie Database (TMDB). From gathering that information a search filter and a results card containing the movie information is displayed.",
+        src: require("../Assets/images/InterActor1.png"),
+        deploy: "https://serene-headland-68325.herokuapp.com/",
+        repo: "https://github.com/kevin-cortina/InterActor-Pt3"
       },
       {
         _id : 3,
@@ -23,16 +23,9 @@ const projects = [
         deploy: "https://workout-tracker2044.herokuapp.com/",
         repo: "https://github.com/Archo21/Workout-Tracker"
       },
-      // {
-      //   _id : 4,
-      //   title: "Team-Profile-Generator",
-      //   about: "This app is created using Object-Oriented Programming concepts namely using classes and constructors to create team objects based on information entered by the user. The app is run using Node.js",
-      //   src: require("../Assets/images/Team-profile generator.png"),
-      //   deploy: "https://team-profile21.herokuapp.com/",
-      //   repo: "https://github.com/Archo21/Team-Profile-Generator"
-      // },
+      
       {
-        _id : 5,
+        _id : 4,
         title: "Note Taker",
         about: "An application that can be used to write, save, and delete notes.This application uses an express backend and save and retrieve note data from a JSON file ",
         src: require("../Assets/images/note-taker.png"),
@@ -40,7 +33,7 @@ const projects = [
         repo: "https://github.com/Archo21/Note-Taker"
       },
       {
-        _id : 6,
+        _id : 5,
         title: "Book-Search-Engine",
         about: "The Book search engine is an application is leveraging the entire MERN stack and with a React front end, MongoDB database, and Node.js/Express.js server and API.",
         src: require("../Assets/images/booksearch.png"),

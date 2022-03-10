@@ -54,7 +54,7 @@ function EducationAndExperience(){
             <h1 className="card-title">2014-2015</h1>
             <p className="card-detail">
                 FRONT OFFICE SUPERVISOR: 
-                 GOLF COURSE HOTEL- KAMPALA UGANDA. 
+                 GOLF COURSE HOTEL-KAMPALA UGANDA. 
     Defined and documented office procedures, using updated SOPs to provide thorough and comprehensive training
     for all administrative support staff.
     Guided employees through routine and complex administrative situations with the decisive but motivational
