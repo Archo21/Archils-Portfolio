@@ -35,7 +35,7 @@ const projects = [
       {
         _id : 5,
         title: "Book-Search-Engine",
-        about: "The Book search engine is an application is leveraging the entire MERN stack and with a React front end, MongoDB database, and Node.js/Express.js server and API.",
+        about: "The Book search engine is an application is leveraging the entire MERN stack and with a React front end, MongoDB database, and Node.js/Express.js server and API. It's set up to allow users to save book searches to the back end.The application is built using Google Books API search engine build with GraphQL API and Apollo Server",
         src: require("../Assets/images/booksearch.png"),
         deploy: "https://book-search-engine23.herokuapp.com/",
         repo: "https://github.com/Archo21/Book-Search-Engine"

@@ -1,7 +1,7 @@
 
 //import { link } from "fs";
 import React from "react";
-import pdf from "../../utils/pdf/Resume.pdf"
+import pdf from "../../utils/pdf/Archils-Resume.pdf"
 function Footer (){
     const icons = [
         {
@@ -29,6 +29,11 @@ function Footer (){
     {icons.map(icon => (
         <a href = {icon.link} key={icon.name} target = "_blank" rel="noopener noreferrer"><i className = {icon.name}></i></a>
     )) }
+    <div className="footerline"></div>
+    
+    <p className="text-muted footertext text-center mb-1">
+        &copy; Archils Oburu 2022
+      </p>
         </footer>
     )
 }
