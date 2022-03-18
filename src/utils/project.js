@@ -15,25 +15,11 @@ const projects = [
         deploy: "https://serene-headland-68325.herokuapp.com/",
         repo: "https://github.com/kevin-cortina/InterActor-Pt3"
       },
-      {
-        _id : 3,
-        title: "Workout-Tracker",
-        about: "  This app  view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day.  I should be able to track my distance traveled.",
-        src: require("../Assets/images/workout-Track.png"),
-        deploy: "https://workout-tracker2044.herokuapp.com/",
-        repo: "https://github.com/Archo21/Workout-Tracker"
-      },
+      
+
       
       {
-        _id : 4,
-        title: "Note Taker",
-        about: "An application that can be used to write, save, and delete notes.This application uses an express backend and save and retrieve note data from a JSON file ",
-        src: require("../Assets/images/note-taker.png"),
-        deploy: "https://note-taker22.herokuapp.com/",
-        repo: "https://github.com/Archo21/Note-Taker"
-      },
-      {
-        _id : 5,
+        _id : 3,
         title: "Book-Search-Engine",
         about: "The Book search engine is an application is leveraging the entire MERN stack and with a React front end, MongoDB database, and Node.js/Express.js server and API. It's set up to allow users to save book searches to the back end.The application is built using Google Books API search engine build with GraphQL API and Apollo Server",
         src: require("../Assets/images/booksearch.png"),
