@@ -2,7 +2,7 @@ const projects = [
       {
       _id : 1,
         title: "Tech-Blog",
-        about: "It is an application where developers can publish their blog posts and comment on other developers’ posts as well. built with: Node.js Express.js JavaScript Sequelize Bcrypt Handlebars.js MVC MySQL Express Session",
+        about: "The application contained within is a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. The app follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.",
         src:require("../Assets/images/Tech-Blog.gif"),
         deploy:"https://tech-blog2213.herokuapp.com/",
         repo: "https://github.com/Archo21/MVC-Tech-Blog"
