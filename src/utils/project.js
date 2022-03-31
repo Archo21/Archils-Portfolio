@@ -15,9 +15,6 @@ const projects = [
         deploy: "https://serene-headland-68325.herokuapp.com/",
         repo: "https://github.com/kevin-cortina/InterActor-Pt3"
       },
-      
-
-      
       {
         _id : 3,
         title: "Book-Search-Engine",

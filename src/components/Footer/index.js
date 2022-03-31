@@ -11,7 +11,6 @@ function Footer (){
         { 
             name:"fab fa-github fa-2x",
             link:"https://github.com/Archo21"
-    
         },
         {
             name:"fab fa-linkedin fa-2x",

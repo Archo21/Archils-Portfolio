@@ -10,10 +10,7 @@ function About (){
         <img src={home} className="about-img" alt=""/>
         
     </div>
-    <p class="about-info"> Full stack web developer certificated holder from University of Washington , self-motivated, innovative, committed team player
-        seeking to offer core competence, hardworking,dynamic,flexible, open mindedand nonjudgmental, 
-        able to work independently with minimal supervision,
-        and to execute service and duties allocated ahead of me. 
+    <p class="about-info"> Full Stack Web Developer with a Certificate in Full Stack Development  from the University of Washington. Self-motivated, innovative, committed team player seeking to offer core competencies in a hardworking, dynamic and flexible manner. Open minded, and able to work independently with minimal supervision, executing service and duties allocated ahead of me.  
         </p>
         </div>
 </section>
