@@ -31,7 +31,7 @@ function Footer (){
     <div className="footerline"></div>
     
     <p className="text-muted footertext text-center mb-1">
-        &copy; Archils Oburu 2022
+        &copy; Archils Oburu @2022
       </p>
         </footer>
     )

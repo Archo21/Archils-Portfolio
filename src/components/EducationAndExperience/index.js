@@ -12,10 +12,10 @@ function EducationAndExperience(){
                 MACHINE OPERATOR:
                 CLEARWATER SPAS - ARLINGTON WA.
                 CURRENT-JOB.
-    Assembled,Hot tub products securely and accurately according to blueprints and specifications.
-    Worked at a fast and steady pace to meet production goals.
-    Performed visual final inspections and documentation prior to assembly, resulting in 100% quality of products.
-    Worked closely with supervisors and designers to understand and meet production specifications.
+                Collaborated closely with engineers, supervisors, and designers to understand and meet production specifications. 
+                Performed visual final inspections and documentation before assembly, resulting in 100% quality of products.  
+                Evaluated the efficiency of each unit regularly, identifying improvements as needed. 
+                Trained new or junior Machine Operators.
             </p>
             </div>
 
@@ -25,14 +25,12 @@ function EducationAndExperience(){
             <h1 className="card-title">2016-2019</h1>
             <p className="card-detail">
                 FARM MANAGER: Kenya/Uganda.
-     Managed mixed farm, that entails crop farming, aquaculture, Tree nursery, and animal farming
-     Protected environmental areas, team members and consumers from harm by closely monitoring chemical
-     applications and production techniques.
-     Directed efficient crop production to maximize resource utilization and consistently meet schedule and financial
-     demand.
-     Diversified farm income by adding customer events, activities and tours.
-     Demonstrated working techniques, practices and optimal safety behaviors to workers, maximizing performance and
-     reducing wasteful processes.
+                Developed and supported projects from conception to implementation. 
+                Handled and tested farm devices and optimized them to cover a high variety of test environments. Previous experience as QA Engineer or comparable role. 
+                Planed budgets, maintained records, managed farm workers, solved technical issues and made decisions about buying and selling. 
+                Participated in developing strategic and tactical plans to facilitate and coordinate the delivery of farm services. 
+                Diversified farm income by adding customer events, activities, and tours. 
+                Demonstrated working techniques, practices, and optimal safety behaviors to workers, maximizing performance and reducing wasteful processes.
             </p>
             </div>
         </div>
@@ -42,26 +40,24 @@ function EducationAndExperience(){
             <p className="card-detail">
             FOOD AND BEVERAGE SUPERVISOR:  
             Country Lake Resort Garuga - Entebbe, Uganda.
-    Established and enforced standards of personnel performance and service to provide customers with consistent and
-    positive experiences.
-    Cleaned and inspected food preparation areas for safe and sanitary food-handling practices.
-    Controlled portion sizes and garnishing for optimal cost controls.
+        Established and enforced standards of personnel performance and service to provide customers with consistent and
+        positive experiences.
+        Cleaned and inspected food preparation areas for safe and sanitary food-handling practices.
+        Controlled portion sizes and garnishing for optimal cost controls.
             </p>
             </div>
         </div>
         <div className="card">
             <div className="card-body">
-            <h1 className="card-title">2014-2015</h1>
+            <h1 className="card-title">Sep 2014-Dec 2014</h1>
             <p className="card-detail">
                 FRONT OFFICE SUPERVISOR: 
                  GOLF COURSE HOTEL-KAMPALA UGANDA. 
-    Defined and documented office procedures, using updated SOPs to provide thorough and comprehensive training
-    for all administrative support staff.
-    Guided employees through routine and complex administrative situations with the decisive but motivational
-    approach.
-    Optimized personnel coverage, preparing work schedules based on staff availability and forecasted demands.
-    Fielded complaints from clients and customers and rectify issues.
-    Monitored financial bookkeeping for accuracy and compliance, resolving identified discrepancies.
+                Communicated application development status/progress to IT Manager. 
+                Guided employees through routine and complex administrative situations with a decisive but motivational approach. 
+                Fielded complaints from clients, and customers and resolve issues.
+                Provided analysis of problems and user queries.
+                Monitored financial bookkeeping for accuracy and compliance, and resolve discrepancies.
             </p>
             </div>
         </div>
