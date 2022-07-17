@@ -14,7 +14,7 @@ function Skills (){
             </div>
             <div className="skills-card">
                 <img src="images/reactjs.png" className="skill-img" alt=""/>
-                <div className="skill-level">90%</div>
+                <div className="skill-level">85%</div>
                 <h1 className="skill-name">reactjs</h1>
                 <p className="skil-info">Front-End JavaScript library for building user interfaces</p>
 
@@ -28,7 +28,7 @@ function Skills (){
             </div>
             <div className="skills-card">
                 <img src="images/nodejs.png" className="skill-img" alt=""/>
-                <div className="skill-level">80%</div>
+                <div className="skill-level">85%</div>
                 <h1 className="skill-name">nodejs</h1>
                 <p className="skil-info">Back-end JavaScript runtime environment</p>
             </div>
