@@ -10,7 +10,7 @@ const projects = [
       {
         _id : 2,
         title: "Inter Actor",
-        about: "This application helps users find movies that 2 or more actors, directors, or producers have made together. In thtogris application users are able to create a profile, and create a favorites list containing movies that they would like to see. InterActor uses the MERN stack web development process. To get the movie information, the application makes API calls to The Movie Database (TMDB). From gathering that information a search filter and a results card containing the movie information is displayed.",
+        about: "This application helps users find movies that 2 or more actors, directors, or producers have made together. In this application users are able to create a profile, and create a favorites list containing movies that they would like to see. InterActor uses the MERN stack web development process. To get the movie information, the application makes API calls to The Movie Database (TMDB). From gathering that information a search filter and a results card containing the movie information is displayed.",
         src: require("../Assets/images/InterActor1.png"),
         deploy: "https://serene-headland-68325.herokuapp.com/",
         repo: "https://github.com/kevin-cortina/InterActor-Pt3"
