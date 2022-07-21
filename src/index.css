@@ -49,13 +49,15 @@ body{
   display: flex;
   flex-direction: row;
 }
-.homeImg{
-  width: 250px;
+ .homeImg{
+  width: 200px;
   border-radius: 40px;
   padding: 10px;
   image-rendering:auto;
-  
-
+  display: block;
+  margin-left: auto;
+  margin-right:auto;
+  width: 50%; 
 }
 .home-section.active,
 .project-section.active
@@ -71,6 +73,8 @@ body{
   text-transform: capitalize;
   font-weight: 200;
   background-color: black;
+  display: flex;
+  flex-direction: row;
 }
 .home-section{
   display: flex;

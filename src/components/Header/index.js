@@ -7,7 +7,7 @@ function Header(){
         <section>
         <div className="home-section.active ">
             
-                <h1 className="hero-heading">Archils<br /> portfolio </h1>
+                <h1 className="hero-heading">Archils portfolio </h1>
         
                 <img src={me}className = "homeImg" alt=""/>
         </div>
